@@ -1,5 +1,5 @@
 # Simulação de Sistemas de Cache
-Este projeto consiste em uma simulação de dois sistemas de cache: um sistema de cache exclusivo e um sistema de cache inclusivo. O objetivo é analisar as taxas de erros nos dois sistemas para um determinado código em C.
+Este projeto consiste em uma simulação de dois sistemas de cache: um sistema de cache exclusivo e um sistema de cache inclusivo. O objetivo é analisar as taxas de erros nos dois sistemas para determinadas instruções.
 
 ## Especificações
 Tamanho da palavra: 4 bytes.
@@ -26,5 +26,5 @@ a) Houve diferença entre as taxas de erros nos esquemas inclusivo e exclusivo d
 
 b) No esquema exclusivo, quantas referências resultaram na utilização da cache L2 como cache de vítima (alocando um bloco removido da cache L1)?
 
-##vObservações
+## Observações
 Este projeto foi desenvolvido como uma simulação dos sistemas de cache exclusivo e inclusivo. Os resultados podem variar dependendo do tamanho das caches e dos arrays.
